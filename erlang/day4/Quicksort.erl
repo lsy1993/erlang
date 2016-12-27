@@ -1,2 +1,0 @@
--module(Quicksort).
--export(qsort).
